@@ -1,0 +1,16 @@
+Una floreria
+
+Empleado, Cliente, Proveedor, Materias Primas
+Pedidos, Productos
+Envio, Factura
+
+Una floreria, la cual ha venido trabajando los últimos años de manera no tecnológica, desea digitalizar sus procesos.
+Actualmente cuentan con una lista de empleados de los cuales almacenan (...)
+Así mismo tienen su lista de clientes de los cuales se guarda (...).
+
+Un cliente puede hacer un pedido, el cual consta de (...) y puede pedir ser enviado o no a una dirección, en caso de que se vaya a enviar se pide adicionalmente (...)
+
+Un pedido consta de varios productos los cuales se componen de diferentes materias primas, flores principalmente, pero puede tener cajas, cintas, tarjetas, etc.
+Tanto las flores como las materias primas cuentan con su proveedor de los cuales se tiene (...)
+
+Finalmente al cliente se le entrega una factura de su pedido que tiene (...)

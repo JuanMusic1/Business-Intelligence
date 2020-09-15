@@ -1,0 +1,3 @@
+# Ejercicio consultas
+
+Utilizar como datos la carpeta _VentasSQLite_ ya que esta la fecha organizada
